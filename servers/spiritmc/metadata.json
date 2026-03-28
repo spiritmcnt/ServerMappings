@@ -3,8 +3,10 @@
     "name": "SpiritMC",
     "website": "https://spiritmc.es/",
     "store": "https://tienda.spiritmc.es",
+    "description": "¡Únete a esta hermosa comunidad!",
     "addresses": [
-        "spiritmc.es"
+        "spiritmc.es",
+        "spiritmc.net"
     ],
     "primaryAddress": "spiritmc.es",
     "primaryColor": "#D200FF",
@@ -28,6 +30,7 @@
     ],
     "gameTypes": [
         "PvP",
+        "Practice",
         "Survival"
     ],
     "socials": {
